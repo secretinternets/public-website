@@ -11,10 +11,8 @@ tag:
 - theme
 comments: true
 ---
-
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center>(http://i.imgur.com/eqxkGaT.jpg)</center>
+ 
+<center>![northwest](http://i.imgur.com/eqxkGaT.jpg)</center>
 ## Northwest Artist Name Authority File and Thesaurus | Seattle Art Museum
 
 This project originated from an inquiry by the Seattle Art Museum Library for a controlled vocabulary to manage a list of artist names relating the institution's “Northwest Artists Exhibition Series” archival collection. Library staff had difficulty answering reference questions because the artist names were not adequately indexed. As part of a project team, I created the Seattle Art Museum Name Authority File (SAM NAF) and the related Pacific Northwest Artist Thesaurus (PNAT) to meet needs of library staff and users. For the SAM NAF, I developed the authority file structure and created authority records. This project highlighted challenges related to the authority file creation for artists: anonymous artists, pseudonyms, variant names, and typographic errors.
