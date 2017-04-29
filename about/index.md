@@ -11,8 +11,8 @@ Text text text text
 Text text text text 
 Text text text text 
 
-## Some thinngs that I care about...
-..Linked Data
-..Open Access
-..User-generated content + crowdsourcing 
+## Some things that I care about...
+..* Linked Data
+..* Open Access
+..* User-generated content + crowdsourcing 
       
