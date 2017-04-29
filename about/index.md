@@ -6,10 +6,13 @@ date: 2016-03-21
 comments: false
 ---
 
-## Welcome!
+## Hello!
 Text text text text 
 Text text text text 
 Text text text text 
 
-## Questions?
+## Some thinngs that I care about...
+..Linked Data
+..Open Access
+..User-generated content + crowdsourcing 
       
