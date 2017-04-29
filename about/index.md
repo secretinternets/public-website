@@ -12,7 +12,7 @@ Text text text text
 Text text text text 
 
 ## Some things that I care about 
-+ Linked Data 
++ Linked Data for LAMs
 + Open Access
 + User-generated content + crowdsourcing 
 + Tacos 
