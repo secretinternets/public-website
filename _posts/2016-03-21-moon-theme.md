@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Northwest Artist Authority File and Thesaurus"
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
