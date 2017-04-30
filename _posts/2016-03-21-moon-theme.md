@@ -4,12 +4,10 @@ title:  "Northwest Artist Authority File and Thesaurus"
 excerpt: "controlled vocabulary of northwest artist names and related concepts"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
-comments: true
+- controlled vocabularies 
+- artists 
+- museums 
+comments: false
 ---
  
 ![northwest](http://i.imgur.com/eqxkGaT.jpg)
