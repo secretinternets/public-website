@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
  
-![northwest](http://i.imgur.com/eqxkGaT.jpg)
+!<center>[northwest](http://i.imgur.com/eqxkGaT.jpg) </center>
 
 ## Northwest Artist Name Authority File and Thesaurus | Seattle Art Museum
 
