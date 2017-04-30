@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Northwest Artist Authority File and Thesaurus"
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "controlled vocabulary of northwest artist names and related concepts"
 project: true
 tag:
 - jekyll 
@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
  
-<center>![northwest](http://i.imgur.com/eqxkGaT.jpg)</center>
+![northwest](http://i.imgur.com/eqxkGaT.jpg)
 
 ## Northwest Artist Name Authority File and Thesaurus | Seattle Art Museum
 
