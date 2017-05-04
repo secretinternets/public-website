@@ -13,7 +13,7 @@ Check out my [resume](assets/img/gri.jpg)!
 
 ## Some things that I care about!
 + Linked Data for GLAMs
-+ Open Access
++ Open access
 + User-generated content + crowdsourcing 
 + Tacos 
       
